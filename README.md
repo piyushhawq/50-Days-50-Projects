@@ -5,8 +5,8 @@ This is the main repository for all of the projects .
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
-| 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
+| 01  | [Rotating Nav Bar](https://github.com/piyushhawq/-Rotating-Navigation-bar.github.io)                             | [Live Demo](https://piyushhawq.github.io/-Rotating-Navigation-bar.github.io/)               |
+| 02  | [Split Landing Page](https://github.com/piyushhawq/Split-Landing-Page.github.io)                               | [Live Demo](https://piyushhawq.github.io/Split-Landing-Page.github.io/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
 | 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
