@@ -48,9 +48,9 @@ This is the main repository for all of the projects .
 | 41  | [Verify Account Ui](https://github.com/bradtraversy/50projects50days/tree/master/verify-account-ui)                         | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
 | 42  | [Live User Filter](https://github.com/bradtraversy/50projects50days/tree/master/live-user-filter)                           | [Live Demo](https://50projects50days.com/projects/live-user-filter/)              |
 | 43  | [Feedback Ui Design](https://github.com/bradtraversy/50projects50days/tree/master/feedback-ui-design)                       | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
-| 44  | [Custom Range Slider](https://github.com/bradtraversy/50projects50days/tree/master/custom-range-slider)                     | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
-| 45  | [Netflix Mobile Navigation](https://github.com/bradtraversy/50projects50days/tree/master/netflix-mobile-navigation)         | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
-| 46  | [Quiz App](https://github.com/bradtraversy/50projects50days/tree/master/quiz-app)                                           | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
+| 44  | [------------------](------------------)                     | [Live Demo](------------------)           |
+| 45  | [------------------](------------------)         | [Live Demo](------------------)     |
+| 46  | [------------------](------------------)                                           | [Live Demo](------------------)                      |
 | 47  | [------------------](------------------)           | [Live Demo](------------------)      |
 | 48  | [------------------](------------------)                         | [Live Demo](------------------)             |
 | 49  | [------------------](------------------)                                         | [Live Demo](------------------)                     |
