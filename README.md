@@ -51,7 +51,7 @@ This is the main repository for all of the projects .
 | 44  | [Custom Range Slider](https://github.com/bradtraversy/50projects50days/tree/master/custom-range-slider)                     | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
 | 45  | [Netflix Mobile Navigation](https://github.com/bradtraversy/50projects50days/tree/master/netflix-mobile-navigation)         | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
 | 46  | [Quiz App](https://github.com/bradtraversy/50projects50days/tree/master/quiz-app)                                           | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
-| 47  | [Testimonial Box Switcher](https://github.com/bradtraversy/50projects50days/tree/master/testimonial-box-switcher)           | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
+| 47  | [------------------](------------------)           | [Live Demo](------------------)      |
 | 48  | [------------------](------------------)                         | [Live Demo](------------------)             |
 | 49  | [------------------](------------------)                                         | [Live Demo](------------------)                     |
 | 50  | [------------------](------------------)                         | [Live Demo](------------------)             |
