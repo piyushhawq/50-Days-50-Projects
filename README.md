@@ -39,8 +39,8 @@ This is the main repository for all of the projects .
 | 32  | [Good Cheap Fast](https://github.com/bradtraversy/50projects50days/tree/master/good-cheap-fast)                             | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
 | 33  | [Notes App](https://github.com/bradtraversy/50projects50days/tree/master/notes-app)                                         | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 | 34  | [Animated Countdown](https://github.com/bradtraversy/50projects50days/tree/master/animated-countdown)                       | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
-| 35  | [Image Carousel](https://github.com/bradtraversy/50projects50days/tree/master/image-carousel)                               | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
-| 36  | [Hoverboard](https://github.com/bradtraversy/50projects50days/tree/master/hoverboard)                                       | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
+| 35  | [------------------](------------------)                               | [Live Demo](------------------)                |
+| 36  | [------------------](------------------)                                       | [Live Demo](------------------)                    |
 | 37  | [------------------](------------------)                                             | [Live Demo](------------------)                       |
 | 38  | [------------------](------------------)                 | [Live Demo](------------------)         |
 | 39  | [------------------](------------------)   | [Live Demo](------------------)  |
