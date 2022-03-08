@@ -41,7 +41,7 @@ This is the main repository for all of the projects .
 | 34  | [Animated Countdown](https://github.com/bradtraversy/50projects50days/tree/master/animated-countdown)                       | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
 | 35  | [Image Carousel](https://github.com/bradtraversy/50projects50days/tree/master/image-carousel)                               | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
 | 36  | [Hoverboard](https://github.com/bradtraversy/50projects50days/tree/master/hoverboard)                                       | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
-| 37  | [Pokedex](https://github.com/bradtraversy/50projects50days/tree/master/pokedex)                                             | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
+| 37  | [------------------](------------------)                                             | [Live Demo](------------------)                       |
 | 38  | [------------------](------------------)                 | [Live Demo](------------------)         |
 | 39  | [------------------](------------------)   | [Live Demo](------------------)  |
 | 40  | [------------------](------------------)                     | [Live Demo](------------------)           |
