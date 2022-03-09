@@ -20,7 +20,7 @@ This is the main repository for all of the projects .
 | 13  | [Alarm Clock](https://github.com/piyushhawq/Alarm-Clock.github.io)                   | [Live Demo](https://piyushhawq.github.io/Alarm-Clock.github.io/)          |
 | 14  | [Sound Board](https://github.com/piyushhawq/Sound-board.github.io)                     | [Live Demo](https://piyushhawq.github.io/Sound-board.github.io/)           |
 | 15  | [Sticky Navbar](https://github.com/piyushhawq/Sticky-Navbar.github.io)                   | [Live Demo](https://piyushhawq.github.io/Sticky-Navbar.github.io/)          |
-| 16  | [Drink Water](https://github.com/bradtraversy/50projects50days/tree/master/drink-water)                                     | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
+| 16  | [Color Hoverboard](https://github.com/piyushhawq/Hoverboard.github.io)                                     | [Live Demo](https://piyushhawq.github.io/Hoverboard.github.io/)                   |
 | 17  | [Movie App](https://github.com/bradtraversy/50projects50days/tree/master/movie-app)                                         | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
 | 18  | [Background Slider](https://github.com/bradtraversy/50projects50days/tree/master/background-slider)                         | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 | 19  | [Theme Clock](https://github.com/bradtraversy/50projects50days/tree/master/theme-clock)                                     | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
