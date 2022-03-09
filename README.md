@@ -17,7 +17,7 @@ This is the main repository for all of the projects .
 | 10  | [Double Vertical Slider](https://github.com/piyushhawq/Double-vertical-Slider.github.io)                                         | [Live Demo](https://piyushhawq.github.io/Double-vertical-Slider.github.io/)                     |
 | 11  | [Event Keycodes](https://github.com/piyushhawq/Event-Key-Code.github.io)                               | [Live Demo](https://piyushhawq.github.io/Event-Key-Code.github.io/)                |
 | 12  | [Notes App](https://github.com/piyushhawq/Notes-App-Using-Local-Storage.github.io)                                   | [Live Demo](https://piyushhawq.github.io/Notes-App-Using-Local-Storage.github.io/)                  |
-| 13  | [Alarm Clock](https://github.com/piyushhawq/Alarm-Clock.github.io)                   | [Live Demo](https://piyushhawq.github.io/Alarm-Clock.github.io/)          |
+| 13  | [Alarm Clock](https://github.com/piyushhawq/Alarm-Clock.github.io)                   | [Live Demo](https://piyushhawq.github.io/AlarmClock.github.io/)          |
 | 14  | [Sound Board](https://github.com/piyushhawq/Sound-board.github.io)                     | [Live Demo](https://piyushhawq.github.io/Sound-board.github.io/)           |
 | 15  | [Sticky Navbar](https://github.com/piyushhawq/Sticky-Navbar.github.io)                   | [Live Demo](https://piyushhawq.github.io/Sticky-Navbar.github.io/)          |
 | 16  | [Color Hoverboard](https://github.com/piyushhawq/Hoverboard.github.io)                                     | [Live Demo](https://piyushhawq.github.io/Hoverboard.github.io/)                   |
