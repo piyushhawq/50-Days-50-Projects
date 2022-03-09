@@ -39,7 +39,7 @@ This is the main repository for all of the projects .
 | 32  | [Dictionary App](https://github.com/piyushhawq/Dictionary-App.github.io)                             | [Live Demo](https://piyushhawq.github.io/Dictionary-App.github.io/)               |
 | 33  | [Roll the dice](https://github.com/piyushhawq/Roll-Dice.github.io)                                         | [Live Demo](https://piyushhawq.github.io/Roll-Dice.github.io/)                     |
 | 34  | [Gradient Generator](https://github.com/piyushhawq/Gradient-Generator.github.io)                       | [Live Demo](https://piyushhawq.github.io/Gradient-Generator.github.io/)            |
-| 35  | [------------------](------------------)                               | [Live Demo](------------------)                |
+| 35  | [Simple Interest Calculator](https://github.com/piyushhawq/Simple-Interest-Calculator.gihub.io)                               | [Live Demo](https://piyushhawq.github.io/Simple-Interest-Calculator.gihub.io/)                |
 | 36  | [------------------](------------------)                                       | [Live Demo](------------------)                    |
 | 37  | [------------------](------------------)                                             | [Live Demo](------------------)                       |
 | 38  | [------------------](------------------)                 | [Live Demo](------------------)         |
