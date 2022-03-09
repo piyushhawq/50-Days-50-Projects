@@ -38,7 +38,7 @@ This is the main repository for all of the projects .
 | 31  | [Rock Paper Scissors](https://github.com/piyushhawq/Rock-Paper-Scissor-Game.github.io)                       | [Live Demo](https://piyushhawq.github.io/Rock-Paper-Scissor-Game.github.io/)            |
 | 32  | [Dictionary App](https://github.com/piyushhawq/Dictionary-App.github.io)                             | [Live Demo](https://piyushhawq.github.io/Dictionary-App.github.io/)               |
 | 33  | [Roll the dice](https://github.com/piyushhawq/Roll-Dice.github.io)                                         | [Live Demo](https://piyushhawq.github.io/Roll-Dice.github.io/)                     |
-| 34  | [Animated Countdown](https://github.com/bradtraversy/50projects50days/tree/master/animated-countdown)                       | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
+| 34  | [Gradient Generator](https://github.com/piyushhawq/Gradient-Generator.github.io)                       | [Live Demo](https://piyushhawq.github.io/Gradient-Generator.github.io/)            |
 | 35  | [------------------](------------------)                               | [Live Demo](------------------)                |
 | 36  | [------------------](------------------)                                       | [Live Demo](------------------)                    |
 | 37  | [------------------](------------------)                                             | [Live Demo](------------------)                       |
