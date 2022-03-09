@@ -37,7 +37,7 @@ This is the main repository for all of the projects .
 | 30  | [Random Quote Generator](https://github.com/piyushhawq/Random-Quote-Generator.github.io)                           | [Live Demo](https://piyushhawq.github.io/Random-Quote-Generator.github.io/)              |
 | 31  | [Rock Paper Scissors](https://github.com/piyushhawq/Rock-Paper-Scissor-Game.github.io)                       | [Live Demo](https://piyushhawq.github.io/Rock-Paper-Scissor-Game.github.io/)            |
 | 32  | [Dictionary App](https://github.com/piyushhawq/Dictionary-App.github.io)                             | [Live Demo](https://piyushhawq.github.io/Dictionary-App.github.io/)               |
-| 33  | [Notes App](https://github.com/bradtraversy/50projects50days/tree/master/notes-app)                                         | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
+| 33  | [Roll the dice](https://github.com/piyushhawq/Roll-Dice.github.io)                                         | [Live Demo](https://piyushhawq.github.io/Roll-Dice.github.io/)                     |
 | 34  | [Animated Countdown](https://github.com/bradtraversy/50projects50days/tree/master/animated-countdown)                       | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
 | 35  | [------------------](------------------)                               | [Live Demo](------------------)                |
 | 36  | [------------------](------------------)                                       | [Live Demo](------------------)                    |
