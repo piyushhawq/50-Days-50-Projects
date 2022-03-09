@@ -32,7 +32,7 @@ This is the main repository for all of the projects .
 | 25  | [Age Calculator](https://github.com/piyushhawq/Age_Calculator.github.io)                                 | [Live Demo](https://piyushhawq.github.io/Age_Calculator.github.io/)                 |
 | 26  | [FAQ](https://github.com/piyushhawq/FAQ-Collapse.github.io)               | [Live Demo](https://piyushhawq.github.io/FAQ-Collapse.github.io/)        |
 | 27  | [Scroll Animation](https://github.com/piyushhawq/Scroll-Animation.github.io)                       | [Live Demo](https://piyushhawq.github.io/Scroll-Animation.github.io/)            |
-| 28  | [Github Profiles](https://github.com/bradtraversy/50projects50days/tree/master/github-profiles)                             | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
+| 28  | [Random Choice Picker](https://github.com/piyushhawq/Random-Choice-Picker.github.io)                             | [Live Demo](https://piyushhawq.github.io/Random-Choice-Picker.github.io/)               |
 | 29  | [Double Click Heart](https://github.com/bradtraversy/50projects50days/tree/master/double-click-heart)                       | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 | 30  | [Auto Text Effect](https://github.com/bradtraversy/50projects50days/tree/master/auto-text-effect)                           | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
 | 31  | [Password Generator](https://github.com/bradtraversy/50projects50days/tree/master/password-generator)                       | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
