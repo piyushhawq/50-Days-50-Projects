@@ -36,7 +36,7 @@ This is the main repository for all of the projects .
 | 29  | [Random Programming Jokes](https://github.com/piyushhawq/Random-Programming-Jokes.github.io)                       | [Live Demo](https://piyushhawq.github.io/Random-Programming-Jokes.github.io/)            |
 | 30  | [Random Quote Generator](https://github.com/piyushhawq/Random-Quote-Generator.github.io)                           | [Live Demo](https://piyushhawq.github.io/Random-Quote-Generator.github.io/)              |
 | 31  | [Rock Paper Scissors](https://github.com/piyushhawq/Rock-Paper-Scissor-Game.github.io)                       | [Live Demo](https://piyushhawq.github.io/Rock-Paper-Scissor-Game.github.io/)            |
-| 32  | [Good Cheap Fast](https://github.com/bradtraversy/50projects50days/tree/master/good-cheap-fast)                             | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
+| 32  | [Dictionary App](https://github.com/piyushhawq/Dictionary-App.github.io)                             | [Live Demo](https://piyushhawq.github.io/Dictionary-App.github.io/)               |
 | 33  | [Notes App](https://github.com/bradtraversy/50projects50days/tree/master/notes-app)                                         | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 | 34  | [Animated Countdown](https://github.com/bradtraversy/50projects50days/tree/master/animated-countdown)                       | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
 | 35  | [------------------](------------------)                               | [Live Demo](------------------)                |
