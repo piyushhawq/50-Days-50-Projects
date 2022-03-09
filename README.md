@@ -18,7 +18,7 @@ This is the main repository for all of the projects .
 | 11  | [Event Keycodes](https://github.com/piyushhawq/Event-Key-Code.github.io)                               | [Live Demo](https://piyushhawq.github.io/Event-Key-Code.github.io/)                |
 | 12  | [Notes App](https://github.com/piyushhawq/Notes-App-Using-Local-Storage.github.io)                                   | [Live Demo](https://piyushhawq.github.io/Notes-App-Using-Local-Storage.github.io/)                  |
 | 13  | [Alarm Clock](https://github.com/piyushhawq/Alarm-Clock.github.io)                   | [Live Demo](https://piyushhawq.github.io/Alarm-Clock.github.io/)          |
-| 14  | [Animated Navigation](https://github.com/bradtraversy/50projects50days/tree/master/animated-navigation)                     | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
+| 14  | [Sound Board](https://github.com/piyushhawq/Sound-board.github.io)                     | [Live Demo](https://piyushhawq.github.io/Sound-board.github.io/)           |
 | 15  | [Incrementing Counter](https://github.com/bradtraversy/50projects50days/tree/master/incrementing-counter)                   | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
 | 16  | [Drink Water](https://github.com/bradtraversy/50projects50days/tree/master/drink-water)                                     | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 | 17  | [Movie App](https://github.com/bradtraversy/50projects50days/tree/master/movie-app)                                         | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
