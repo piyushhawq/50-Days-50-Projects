@@ -23,7 +23,7 @@ This is the main repository for all of the projects .
 | 16  | [Color Hoverboard](https://github.com/piyushhawq/Hoverboard.github.io)                                     | [Live Demo](https://piyushhawq.github.io/Hoverboard.github.io/)                   |
 | 17  | [Todo List](https://github.com/piyushhawq/TodoList.github.io)                                         | [Live Demo](----------------)                     |
 | 18  | [New Year Countdown](https://github.com/piyushhawq/New-Year-Countdown.github.io)                         | [Live Demo](https://piyushhawq.github.io/New-Year-Countdown.github.io/)             |
-| 19  | [Theme Clock](https://github.com/bradtraversy/50projects50days/tree/master/theme-clock)                                     | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
+| 19  | [PokeDex](https://github.com/piyushhawq/PokeDex.github.io)                                     | [Live Demo](https://piyushhawq.github.io/PokeDex.github.io/)                   |
 | 20  | [Button Ripple Effect](https://github.com/bradtraversy/50projects50days/tree/master/button-ripple-effect)                   | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 | 21  | [Drag N Drop](https://github.com/bradtraversy/50projects50days/tree/master/drag-n-drop)                                     | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App](https://github.com/bradtraversy/50projects50days/tree/master/drawing-app)                                     | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
