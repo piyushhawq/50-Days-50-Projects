@@ -21,7 +21,7 @@ This is the main repository for all of the projects .
 | 14  | [Sound Board](https://github.com/piyushhawq/Sound-board.github.io)                     | [Live Demo](https://piyushhawq.github.io/Sound-board.github.io/)           |
 | 15  | [Sticky Navbar](https://github.com/piyushhawq/Sticky-Navbar.github.io)                   | [Live Demo](https://piyushhawq.github.io/Sticky-Navbar.github.io/)          |
 | 16  | [Color Hoverboard](https://github.com/piyushhawq/Hoverboard.github.io)                                     | [Live Demo](https://piyushhawq.github.io/Hoverboard.github.io/)                   |
-| 17  | [Movie App](https://github.com/bradtraversy/50projects50days/tree/master/movie-app)                                         | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
+| 17  | [Todo List](https://github.com/piyushhawq/TodoList.github.io)                                         | [Live Demo](----------------)                     |
 | 18  | [Background Slider](https://github.com/bradtraversy/50projects50days/tree/master/background-slider)                         | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 | 19  | [Theme Clock](https://github.com/bradtraversy/50projects50days/tree/master/theme-clock)                                     | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
 | 20  | [Button Ripple Effect](https://github.com/bradtraversy/50projects50days/tree/master/button-ripple-effect)                   | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
