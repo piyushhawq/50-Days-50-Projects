@@ -30,7 +30,7 @@ This is the main repository for all of the projects .
 | 23  | [Form Wave Animation](https://github.com/piyushhawq/Form-Wave-Animation.github.io)                               | [Live Demo](https://piyushhawq.github.io/Form-Wave-Animation.github.io/)                |
 | 24  | [GitHub Profile Fetcher](https://github.com/piyushhawq/Github-Profile-Fetcher.github.io)                     | [Live Demo](https://piyushhawq.github.io/Github-Profile-Fetcher.github.io/)           |
 | 25  | [Age Calculator](https://github.com/piyushhawq/Age_Calculator.github.io)                                 | [Live Demo](https://piyushhawq.github.io/Age_Calculator.github.io/)                 |
-| 26  | [Double Vertical Slider](https://github.com/bradtraversy/50projects50days/tree/master/double-vertical-slider)               | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |
+| 26  | [FAQ](https://github.com/piyushhawq/FAQ-Collapse.github.io)               | [Live Demo](https://piyushhawq.github.io/FAQ-Collapse.github.io/)        |
 | 27  | [Toast Notification](https://github.com/bradtraversy/50projects50days/tree/master/toast-notification)                       | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
 | 28  | [Github Profiles](https://github.com/bradtraversy/50projects50days/tree/master/github-profiles)                             | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
 | 29  | [Double Click Heart](https://github.com/bradtraversy/50projects50days/tree/master/double-click-heart)                       | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
