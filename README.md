@@ -7,7 +7,7 @@ This is the main repository for all of the projects .
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Rotating Nav Bar](https://github.com/piyushhawq/-Rotating-Navigation-bar.github.io)                             | [Live Demo](https://piyushhawq.github.io/-Rotating-Navigation-bar.github.io/)               |
 | 02  | [Split Landing Page](https://github.com/piyushhawq/Split-Landing-Page.github.io)                               | [Live Demo](https://piyushhawq.github.io/Split-Landing-Page.github.io/)                |
-| 03  | [Analog Watch ](https://github.com/piyushhawq/Analog-Clock.github.io)                       | [Live Demo](https://piyushhawq.github.io/Analog-Clock.github.io/) |
+| 03  | [Analog Watch ](https://github.com/piyushhawq/Analog-Clock.github.io)                       | [Live Demo](https://piyushhawq.github.io/AnalogClock.github.io/) |
 | 04  | [Calculator ](https://github.com/piyushhawq/Calculator.github.io)                          | [Live Demo](https://piyushhawq.github.io/Calculator.github.io/)          |
 | 05  | [Netflix Mobile Animation](https://github.com/piyushhawq/Netflix-Mobile-Navigation.github.io)                               | [Live Demo](https://piyushhawq.github.io/Netflix-Mobile-Navigation.github.io/)                |
 | 06  | [Calender](https://github.com/piyushhawq/Calendar.github.io)                           | [Live Demo](https://piyushhawq.github.io/Calendar.github.io/)              |
