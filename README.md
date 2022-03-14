@@ -42,7 +42,7 @@ This is the main repository for all of the projects .
 | 35  | [Simple Interest Calculator](https://github.com/piyushhawq/Simple-Interest-Calculator.gihub.io)                               | [Live Demo](https://piyushhawq.github.io/Simple-Interest-Calculator.gihub.io/)                |
 | 36  | [BMI Calculator](https://github.com/piyushhawq/BMI-Calculator.github.io)                                       | [Live Demo](https://piyushhawq.github.io/BMI-Calculator.github.io/)                    |
 | 37  | [Live Word Counter](https://github.com/piyushhawq/Live-Word-Counter.github.io)                                             | [Live Demo](https://piyushhawq.github.io/Live-Word-Counter.github.io/)                       |
-| 38  | [------------------](------------------)                 | [Live Demo](------------------)         |
+| 38  | [Guessing the number Game](https://github.com/piyushhawq/Number-Guessing-Game.github.io)                 | [Live Demo](https://piyushhawq.github.io/Number-Guessing-Game.github.io/)         |
 | 39  | [------------------](------------------)   | [Live Demo](------------------)  |
 | 40  | [------------------](------------------)                     | [Live Demo](------------------)           |
 | 41  | [------------------](------------------)                         | [Live Demo](------------------)             |
