@@ -32,7 +32,7 @@ This is the main repository for all of the projects .
 | 25  | [Age Calculator](https://github.com/piyushhawq/Age_Calculator.github.io)                                 | [Live Demo](https://piyushhawq.github.io/Age_Calculator.github.io/)                 |
 | 26  | [FAQ](https://github.com/piyushhawq/FAQ-Collapse.github.io)               | [Live Demo](https://piyushhawq.github.io/FAQ-Collapse.github.io/)        |
 | 27  | [Scroll Animation](https://github.com/piyushhawq/Scroll-Animation.github.io)                       | [Live Demo](https://piyushhawq.github.io/Scroll-Animation.github.io/)            |
-| 28  | [Random Choice Picker](https://github.com/piyushhawq/Random-Choice-Picker.github.io)                             | [Live Demo](https://piyushhawq.github.io/Random-Choice-Picker.github.io/)               |
+| 28  | [Random Choice Picker](https://github.com/piyushhawq/Random-Choice-Picker.github.io)                             | [Live Demo](https://piyushhawq.github.io/Random-Choice-Picker.github.io/)               |https://github.com/piyushhawq/Live-Word-Counter.github.io
 | 29  | [Random Programming Jokes](https://github.com/piyushhawq/Random-Programming-Jokes.github.io)                       | [Live Demo](https://piyushhawq.github.io/Random-Programming-Jokes.github.io/)            |
 | 30  | [Random Quote Generator](https://github.com/piyushhawq/Random-Quote-Generator.github.io)                           | [Live Demo](https://piyushhawq.github.io/Random-Quote-Generator.github.io/)              |
 | 31  | [Rock Paper Scissors](https://github.com/piyushhawq/Rock-Paper-Scissor-Game.github.io)                       | [Live Demo](https://piyushhawq.github.io/Rock-Paper-Scissor-Game.github.io/)            |
@@ -40,8 +40,8 @@ This is the main repository for all of the projects .
 | 33  | [Roll the dice](https://github.com/piyushhawq/Roll-Dice.github.io)                                         | [Live Demo](https://piyushhawq.github.io/Roll-Dice.github.io/)                     |
 | 34  | [Gradient Generator](https://github.com/piyushhawq/Gradient-Generator.github.io)                       | [Live Demo](https://piyushhawq.github.io/Gradient-Generator.github.io/)            |
 | 35  | [Simple Interest Calculator](https://github.com/piyushhawq/Simple-Interest-Calculator.gihub.io)                               | [Live Demo](https://piyushhawq.github.io/Simple-Interest-Calculator.gihub.io/)                |
-| 36  | [------------------](------------------)                                       | [Live Demo](------------------)                    |
-| 37  | [------------------](------------------)                                             | [Live Demo](------------------)                       |
+| 36  | [BMI Calculator](https://github.com/piyushhawq/BMI-Calculator.github.io)                                       | [Live Demo](https://piyushhawq.github.io/BMI-Calculator.github.io/)                    |
+| 37  | [Live Word Counter](https://github.com/piyushhawq/Live-Word-Counter.github.io)                                             | [Live Demo](https://piyushhawq.github.io/Live-Word-Counter.github.io/)                       |
 | 38  | [------------------](------------------)                 | [Live Demo](------------------)         |
 | 39  | [------------------](------------------)   | [Live Demo](------------------)  |
 | 40  | [------------------](------------------)                     | [Live Demo](------------------)           |
