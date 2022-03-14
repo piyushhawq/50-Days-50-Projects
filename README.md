@@ -43,7 +43,7 @@ This is the main repository for all of the projects .
 | 36  | [BMI Calculator](https://github.com/piyushhawq/BMI-Calculator.github.io)                                       | [Live Demo](https://piyushhawq.github.io/BMI-Calculator.github.io/)                    |
 | 37  | [Live Word Counter](https://github.com/piyushhawq/Live-Word-Counter.github.io)                                             | [Live Demo](https://piyushhawq.github.io/Live-Word-Counter.github.io/)                       |
 | 38  | [Guessing the number Game](https://github.com/piyushhawq/Number-Guessing-Game.github.io)                 | [Live Demo](https://piyushhawq.github.io/Number-Guessing-Game.github.io/)         |
-| 39  | [------------------](------------------)   | [Live Demo](------------------)  |
+| 39  | [Typing Test](https://github.com/piyushhawq/Typing-Test.github.io)   | [Live Demo](https://piyushhawq.github.io/Typing-Test.github.io/)  |
 | 40  | [------------------](------------------)                     | [Live Demo](------------------)           |
 | 41  | [------------------](------------------)                         | [Live Demo](------------------)             |
 | 42  | [------------------](------------------)                           | [Live Demo](------------------)              |
