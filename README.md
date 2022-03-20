@@ -47,7 +47,7 @@ This is the main repository for all of the projects .
 | 40  | [Flip a Coin](https://github.com/piyushhawq/Flip-A-Coin.github.io)                     | [Live Demo](https://piyushhawq.github.io/Flip-A-Coin.github.io/)           |
 | 41  | [Catch the Insect Game](https://github.com/piyushhawq/Insects-Catch-Game.github.io)                         | [Live Demo](https://piyushhawq.github.io/Insects-Catch-Game.github.io/)             |
 | 42  | [Snake game 🐍](https://github.com/piyushhawq/Snake--Game.github.io)                           | [Live Demo](https://piyushhawq.github.io/Snake--Game.github.io/)              |
-| 43  | [------------------](------------------)                       | [Live Demo](------------------)            |
+| 43  | [Monster Maker](https://github.com/piyushhawq/Monster_maker.github.io)                       | [Live Demo](https://piyushhawq.github.io/Monster_maker.github.io/)            |
 | 44  | [------------------](------------------)                     | [Live Demo](------------------)           |
 | 45  | [------------------](------------------)         | [Live Demo](------------------)     |
 | 46  | [------------------](------------------)                                           | [Live Demo](------------------)                      |
