@@ -49,7 +49,7 @@ This is the main repository for all of the projects .
 | 42  | [Snake game 🐍](https://github.com/piyushhawq/Snake--Game.github.io)                           | [Live Demo](https://piyushhawq.github.io/Snake--Game.github.io/)              |
 | 43  | [Monster Maker](https://github.com/piyushhawq/Monster_maker.github.io)                       | [Live Demo](https://piyushhawq.github.io/Monster_maker.github.io/)            |
 | 44  | [Minion Eyes Follow Mouse](https://github.com/piyushhawq/Minion-Eyes-Follow-Mouse.github.io)                     | [Live Demo](https://piyushhawq.github.io/Minion-Eyes-Follow-Mouse.github.io/)           |
-| 45  | [------------------](------------------)         | [Live Demo](------------------)     |
+| 45  | [Image Editor](https://github.com/piyushhawq/Image-Editor.github.io)         | [Live Demo](https://piyushhawq.github.io/Image-Editor.github.io/)     |
 | 46  | [------------------](------------------)                                           | [Live Demo](------------------)                      |
 | 47  | [------------------](------------------)           | [Live Demo](------------------)      |
 | 48  | [------------------](------------------)                         | [Live Demo](------------------)             |
