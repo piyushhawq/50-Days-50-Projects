@@ -46,7 +46,7 @@ This is the main repository for all of the projects .
 | 39  | [Typing Test](https://github.com/piyushhawq/Typing-Test.github.io)   | [Live Demo](https://piyushhawq.github.io/Typing-Test.github.io/)  |
 | 40  | [Flip a Coin](https://github.com/piyushhawq/Flip-A-Coin.github.io)                     | [Live Demo](https://piyushhawq.github.io/Flip-A-Coin.github.io/)           |
 | 41  | [Catch the Insect Game](https://github.com/piyushhawq/Insects-Catch-Game.github.io)                         | [Live Demo](https://piyushhawq.github.io/Insects-Catch-Game.github.io/)             |
-| 42  | [------------------](------------------)                           | [Live Demo](------------------)              |
+| 42  | [Snake game 🐍](https://github.com/piyushhawq/Snake--Game.github.io)                           | [Live Demo](https://piyushhawq.github.io/Snake--Game.github.io/)              |
 | 43  | [------------------](------------------)                       | [Live Demo](------------------)            |
 | 44  | [------------------](------------------)                     | [Live Demo](------------------)           |
 | 45  | [------------------](------------------)         | [Live Demo](------------------)     |
