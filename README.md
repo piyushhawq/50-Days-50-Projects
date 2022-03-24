@@ -54,4 +54,4 @@ This is the main repository for all of the projects .
 | 47  | [Card with dynamic themes](https://github.com/piyushhawq/Card-With-Dynamic-Themes.github.io)           | [Live Demo](https://piyushhawq.github.io/Card-With-Dynamic-Themes.github.io/)      |
 | 48  | [Form to QR Generator](https://github.com/piyushhawq/Form-to-Qr-code.github.io)                         | [Live Demo](https://piyushhawq.github.io/Form-to-Qr-code.github.io/)             |
 | 49  | [Pair Game](https://github.com/piyushhawq/Pair-Game.github.io)                                         | [Live Demo](https://piyushhawq.github.io/Pair-Game.github.io/)                     |
-| 50  | [------------------](------------------)                         | [Live Demo](------------------)             |
+| 50  | [Self-Destruct Button](https://github.com/piyushhawq/Self-Destruct-Button)                         | [Live Demo](https://piyushhawq.github.io/Self-Destruct-Button/)             |
