@@ -51,7 +51,7 @@ This is the main repository for all of the projects .
 | 44  | [Minion Eyes Follow Mouse](https://github.com/piyushhawq/Minion-Eyes-Follow-Mouse.github.io)                     | [Live Demo](https://piyushhawq.github.io/Minion-Eyes-Follow-Mouse.github.io/)           |
 | 45  | [Image Editor](https://github.com/piyushhawq/Image-Editor.github.io)         | [Live Demo](https://piyushhawq.github.io/Image-Editor.github.io/)     |
 | 46  | [Weather-App](https://github.com/piyushhawq/Weather-App)                                           | [Live Demo](https://piyushhawq.github.io/Weather-App/)                      |
-| 47  | [------------------](------------------)           | [Live Demo](------------------)      |
+| 47  | [Card with dynamic themes](https://github.com/piyushhawq/Card-With-Dynamic-Themes.github.io)           | [Live Demo](https://piyushhawq.github.io/Card-With-Dynamic-Themes.github.io/)      |
 | 48  | [------------------](------------------)                         | [Live Demo](------------------)             |
 | 49  | [------------------](------------------)                                         | [Live Demo](------------------)                     |
 | 50  | [------------------](------------------)                         | [Live Demo](------------------)             |
