@@ -52,6 +52,6 @@ This is the main repository for all of the projects .
 | 45  | [Image Editor](https://github.com/piyushhawq/Image-Editor.github.io)         | [Live Demo](https://piyushhawq.github.io/Image-Editor.github.io/)     |
 | 46  | [Weather-App](https://github.com/piyushhawq/Weather-App)                                           | [Live Demo](https://piyushhawq.github.io/Weather-App/)                      |
 | 47  | [Card with dynamic themes](https://github.com/piyushhawq/Card-With-Dynamic-Themes.github.io)           | [Live Demo](https://piyushhawq.github.io/Card-With-Dynamic-Themes.github.io/)      |
-| 48  | [------------------](------------------)                         | [Live Demo](------------------)             |
+| 48  | [Form to QR Generator](https://github.com/piyushhawq/Form-to-Qr-code.github.io)                         | [Live Demo](https://piyushhawq.github.io/Form-to-Qr-code.github.io/)             |
 | 49  | [------------------](------------------)                                         | [Live Demo](------------------)                     |
 | 50  | [------------------](------------------)                         | [Live Demo](------------------)             |
